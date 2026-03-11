@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sigmarizz111.aternos.me",
-    "port": 45899,
-    "version": "",
+    "ip": "serverSakit.aternos.me",
+    "port": 37736,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
